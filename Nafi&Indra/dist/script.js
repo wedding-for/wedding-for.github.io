@@ -69,7 +69,7 @@ $(document).ready(function(){
 		}
 		//
 		$("#countdown").countdown({
-			date: "30 Jan 2021 15:21:00", // change date/time here - do not change the format!
+			date: "1 Aprik 2021 08:00:00", // change date/time here - do not change the format!
 			format: "on"
 		});
 	});
